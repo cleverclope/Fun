@@ -1,0 +1,4 @@
+#Tue May 14 20:54:52 GMT-08:00 2019
+base.0=C\:\\Users\\clope\\AndroidStudioProjects\\Fun\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

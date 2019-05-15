@@ -1,0 +1,51 @@
+[
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Inte

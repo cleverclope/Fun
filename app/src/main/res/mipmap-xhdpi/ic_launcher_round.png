@@ -1,0 +1,120 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,332,449,537,643,764,843,921,1012,1105,1201,1295,1396,1489,1584,1678,1769,1860,1944,2053,2164,2265,2375,2492,2600,2763,2865",
+                        "endColumns": "118,107,116,87,105,120,78,77,90,92,95,93,100,92,94,93,90,90,83,108,110,100,109,116,107,162,101,83",
+                        "endOffsets": "219,327,444,532,638,759,838,916,1007,1100,1196,1290,1391,1484,1579,1673,1764,1855,1939,2048,2159,2260,2370,2487,2595,2758,2860,2944"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\32dd44e7a62b8f8f3ee339b8e3508cbe\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2949",
+                        "endColumns": "100",
+                        "endOffsets": "3045"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,318,429,517,622,735,819,901,992,1085,1180,1276,1377,1470,1565,1659,1750,1841,1924,2037,2144,2242,2355,2459,2563,2720,2818",
+                        "endColumns": "108,103,110,87,104,112,83,81,90,92,94,95,100,92,94,93,90,90,82,112,106,97,112,103,103,156,97,80",
+                        "endOffsets": "209,313,424,512,617,730,814,896,987,1080,1175,1271,1372,1465,1560,1654,1745,1836,1919,2032,2139,2237,2350,2454,2558,2715,2813,2894"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\32dd44e7a62b8f8f3ee339b8e3508cbe\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2899",
+                        "endColumns": "100",
+                        "endOffsets": "2995"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\49707595625c8543e60b357516ced99c\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,295,400,482,580,688,765,841,932,1025,1121,1215,1316,1409,1504,1598,1689,1780,1858,1960,2059,2154,2257,2352,2448,2596,2693",
+                        "endColumns": "96,92,104,81,97,107,76,75,90,92,95,93,100,92,94,93,90,90,77,101,98,94,102,94,95,147,96,77",
+                        "endOffsets": "197,290,395,477,575,683,760,836,927,1020,1116,1210,1311,1404,1499,1593,1684,1775,1853,1955,2054,2149,2252,2347,2443,2591,2688,2766"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\32dd44e7a62b8f8f3ee339b8e3508cbe\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2771",
+                        "endColumns": "100",
+                        "endOffsets": "2867"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\M\\Downloads\\Explicit_Implicit_Intents\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\32dd44e7a62b8f8f3ee339b8e3508cbe\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2936",
+                        "endColumns": "100",
+                        "endOffsets": "3032"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\M\\.gradle\\caches\\t
